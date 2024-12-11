@@ -1,0 +1,2 @@
+# Multiprogramming_Multitasking_Paralellik_ve_Eszamanlilik
+ 
